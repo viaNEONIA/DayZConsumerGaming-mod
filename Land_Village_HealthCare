@@ -1,0 +1,17 @@
+		<group name="Land_Village_HealthCare"><!--クリニックに固定沸き追加-->
+				<usage name="Village" />
+				<usage name="Farm" />
+			<dispatch>
+						<proxy type="VitaminBottle" pos="1.500000 -2.829010 6.109864" rpy="0.000000 0.000000 0.000000" />
+						<proxy type="VitaminBottle" pos="4.200196 -2.449005 3.310059" rpy="0.000000 0.000000 0.000000" />
+						<proxy type="VitaminBottle" pos="4.100586 -2.429016 1.410157" rpy="0.000000 0.000000 0.000000" />
+						<proxy type="FirstAidKit" pos="4.700196 -2.446991 1.319825" rpy="90.000000 0.000000 0.000000" />
+						<proxy type="StartKitIV" pos="2.600586 -2.429016 3.310059" rpy="90.000000 0.000000 0.000000" />
+						<proxy type="BloodTestKit" pos="34555.310059 -2.088989 3.290039" rpy="90.000000 0 0" />
+						<proxy type="PainkillerTablets" pos="3.300782 -2.079010 1.410157" rpy="90.000000 0 0" />
+						<proxy type="PurificationTablets" pos="2.300782 -2.109009 1.350098" rpy="90.000000 0.000000 0.000000" />
+						<proxy type="PainkillerTablets" pos="-2.199218 -2.869019 10.419922" rpy="0.000000 0.000000 0.000000" />
+						<proxy type="BandageDressing" pos="1.500000 -1.308991 5.209961" rpy="0.000000 0.000000 0.000000" />
+						<proxy type="BandageDressing" pos="1.600586 -1.308991 5.310059" rpy="0.000000 0.000000 0.000000" />
+			</dispatch>
+		</group>

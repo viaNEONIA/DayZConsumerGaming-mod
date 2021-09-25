@@ -1,0 +1,21 @@
+		<group name="Land_House_2W032"><!--民家ロッカーに武器バック追加-->
+				<usage name="Village" />
+				<usage name="Farm" />
+				<container name="lootFloor">
+						<category name="food"/>
+						<point pos="-1.876667 -1.211807 1.021349" range="0.483887" height="1.209718" flags="32" />
+						<point pos="0.396737 -1.174454 -0.807087" range="0.564209" height="1.410522" flags="32" />
+						<point pos="1.760472 -1.067368 0.874323" range="0.665283" height="1.626160" flags="32" />
+						<point pos="1.757211 -1.085785 -0.656583" range="0.712402" height="1.781005" flags="32" />
+						<point pos="0.068999 -1.178558 0.701673" range="0.838379" height="2.037003" flags="32" />
+				</container>
+			<dispatch>
+					<proxy type="AssaultBag_Ttsko" pos="2.519531 -0.549896 4.897461" rpy="90.000000 0 0" />
+					<proxy type="AssaultBag_Green" pos="2.519531 -0.549896 5.337403" rpy="90.000000 0 0" />
+					<proxy type="M4A1" pos="3.119141 0.143097 4.887207" rpy="0.000000 90 90" />
+					<proxy type="M16A2" pos="3.119141 0.143097 5.327149" rpy="0 0.000000 90.000000" />
+					<proxy type="Mag_CMAG_30Rnd" pos="3.918945 0.050080 7.517090" rpy="90.000000 -0.00000 0" />
+					<proxy type="AmmoBox_556x45_20Rnd" pos="3.819336 0.050080 7.157227" rpy="90.000000 0 0" />
+					<proxy type="Ammo_556x45" pos="4.019531 0.050080 7.287110" rpy="0.000000 0.000000 0.000000" />
+			</dispatch>
+		</group>

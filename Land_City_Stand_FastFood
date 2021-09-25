@@ -1,0 +1,14 @@
+		<group name="Land_City_Stand_FastFood"><!--ファーストフード店に固定沸き追加-->
+				<usage name="Village" />
+				<usage name="Farm" />
+			<dispatch>
+					<proxy type="BakedBeansCan_Opened" pos="-1.127929 -0.989715 -1.742187" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="SpaghettiCan" pos="-0.928711 -1.059723 -2.041992" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="SardinesCan" pos="-3.328125 -1.642730 1.297852" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="TunaCan" pos="-3.328125 -0.772735 -1.092285" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="PorkCan" pos="-3.228515 -1.572723 -1.041992" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="SodaCan_Pipsi" pos="-3.328125 -0.732727 0.737793" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="SodaCan_Spite" pos="-2.428711 -1.572723 -2.302246" rpy="0.000000 0.000000 0.000000" />
+					<proxy type="WaterBottle" pos="-2.528320 -1.572723 -2.291992" rpy="0.000000 0.000000 0.000000" />
+			</dispatch>
+		</group>

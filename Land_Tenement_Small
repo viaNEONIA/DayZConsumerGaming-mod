@@ -1,0 +1,17 @@
+<group name="Land_Tenement_Small" lootmax="2">
+	<usage name="Town" />
+		<container name="lootFloor" lootmax="2">
+		<category name="tools" />
+		<category name="clothes" />
+		<point pos="-1.327190 -7.531928 -2.559900" range="0.5" height="1.5" /> 
+		<point pos="6.253460 -7.531928 -3.673140" range="0.5" height="1.5" /> 
+		<point pos="-2.266690 -4.131928 -0.770560" range="0.5" height="1.5" /> 
+		<point pos="7.827780 -0.731928 9.594940" range="0.5" height="1.5" /> 
+		<point pos="5.056130 -0.731928 3.369540" range="0.5" height="1.5" /> 
+		<point pos="2.840460 2.658072 -2.342780" range="0.5" height="1.5" /> 
+		<point pos="5.981820 6.068072 4.173500" range="0.5" height="1.5" /> 
+		<point pos="8.110266 6.080335 9.053922" range="0.5" height="1.5" /> 
+		<point pos="-7.256520 9.668073 1.562710" range="0.5" height="1.5" /> 
+		<point pos="-1.109550 9.668073 -4.233960" range="0.5" height="1.5" /> 
+	</container>
+</group>

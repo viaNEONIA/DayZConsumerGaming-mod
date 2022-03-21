@@ -4,23 +4,29 @@
         <category name="tools"/>
         <category name="containers"/>
         <category name="clothes"/>
-        <category name="vehiclesparts"/>
+        <category name="vehiclesparts"/><!--車パーツ-->
         <category name="food"/>
-        <category name="weapons"/>
+        <category name="weapons"/><!--武器本体-->
 		<category name="store"/>
 		<category name="fire"/>
-		<category name="Ammobox"/>
-		<category name="Mag"/>
-		<category name="Parts"/>
-        <category name="explosives1"/>
-		<category name="explosives2"/>
-		<category name="RackWeapon"/>
-		<category name="Airdrop"/>
-        <category name="Vending"/>
+		<category name="Ammo"/><!--単体の弾-->
+		<category name="Ammobox"/><!--箱入り弾-->
+		<category name="Mag"/><!--マガジン-->
+		<category name="attach"/><!--アタッチメント-->
+		<category name="sight"/><!--光学サイト-->
+        <category name="explosives1"/><!--非殺傷-->
+		<category name="explosives2"/><!--殺傷-->
+		<category name="RackWeapon"/><!--テント内の立て掛け武器用-->
+		<category name="Airdrop"/><!--エアドロップ再現用-->
+        <category name="Vend"/><!--自動販売機mod用-->
+		<category name="storecity"/><!--大型ストアー-->
+		<category name="surprisebox"/><!--ごちゃ混ぜBox-->
+		<category name="tomb"/><!--墓埋葬品用-->
     </categories>
     <tags>
         <tag name="floor"/>
-        <tag name="shelves"/>
+        <tag name="shelves"/><!--上段-->
+		<tag name="shelves2"/><!--下段-->
         <tag name="ground"/>
     </tags>
     <usageflags>
@@ -38,17 +44,17 @@
         <usage name="School"/>
         <usage name="Prison"/>
         <usage name="Lunapark"/>
-        <usage name="SeasonalEvent"/>
-		<usage name="ContaminatedArea"/>
+        <usage name="SeasonalEvent"/><!--クリスマス・イースター・サンタ-->
+		<usage name="ContaminatedArea"/><!--ガスエリア-->
 		<usage name="Store" />
 		<usage name="Fire"/>
-		<usage name="vendeder"/>
+		<usage name="underbase"/><!--地下室-->
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
-        <value name="Tier5"/><!--カスタムMapと組み合わせの場合のみ動作RP鯖用-->
+        <value name="Tier5"/><!--RP鯖用-->
     </valueflags>
 </lists>

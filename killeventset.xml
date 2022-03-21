@@ -1,0 +1,84 @@
+	<type name="SeaChest">
+        <cargo chance="1">
+        <item name="TacticalShirt_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="CargoPants_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="BalaclavaMask_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="PlateCarrierVest" />
+        </cargo>
+        <cargo chance="1">
+        <item name="PlateCarrierPouches" />
+        </cargo>
+        <cargo chance="1">
+        <item name="MilitaryBoots_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="NVGoggles" />
+        </cargo>
+	</type>               
+	<type name="DryBag_Black">
+        <cargo chance="1">
+        <item name="TacticalGloves_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AK101" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AK_PlasticBttstck_Black" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AK_PlasticHndgrd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Epinephrine" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Epinephrine" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Morphine" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Morphine" />
+        </cargo>
+        <cargo chance="1">
+        <item name="KazuarOptic" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AmmoBox_556x45Tracer_20Rnd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AmmoBox_556x45Tracer_20Rnd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AmmoBox_556x45Tracer_20Rnd" />
+        </cargo>
+      <cargo chance="1">
+        <item name="AmmoBox_556x45Tracer_20Rnd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="AK_Suppressor" />
+        </cargo>
+    </type>                     
+	<type name="DryBag_Red">
+        <cargo chance="1">
+        <item name="Mich2001Helmet" />
+        </cargo>
+        <cargo chance="1">
+        <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Mag_AK101_30Rnd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Mag_AK101_30Rnd" />
+        </cargo>
+        <cargo chance="1">
+        <item name="Mag_AK101_30Rnd" />
+        </cargo>
+    </type>

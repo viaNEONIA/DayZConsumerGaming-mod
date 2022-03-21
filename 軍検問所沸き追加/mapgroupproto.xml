@@ -1,0 +1,25 @@
+<!--道路検問所テーブル上追加スポーン-->
+<group name="Land_Roadblock_Table" lootmax="3">
+	<usage name="Military" />
+	    <category name="weapons"/>
+		<category name="Ammobox"/>
+	<container name="lootFloor" lootmax="3">
+		<point pos="0.078672 0.452939 0.733439" range="1" height="1" /> 
+		<point pos="0.120918 0.452939 -0.644851" range="1" height="1" /> 
+		<point pos="0.137604 0.452939 -0.013816" range="1" height="1" /> 
+	</container>
+</group>
+<!--パレット上追加スポーン-->
+<group name="pallet" lootmax="2">
+	<usage name="Police"/>
+	<usage name="Town" />
+		<category name="Ammobox"/>
+		<category name="containers"/>
+		<category name="food"/>
+		<category name="tool"/>
+	<container name="lootFloor" lootmax="2">
+		<point pos="0.399737 0.155409 0.357776" range="1" height="1" /> 
+		<point pos="-0.083599 0.155409 -0.600085" range="1" height="1" /> 
+		<point pos="-0.363590 0.155409 0.368840" range="1" height="1" /> 
+	</container>
+</group>

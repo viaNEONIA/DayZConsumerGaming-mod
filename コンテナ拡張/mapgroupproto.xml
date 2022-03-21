@@ -1,0 +1,23 @@
+<!--コンテナ拡張-->
+<group name="Land_Container_1Moh3" lootmax="5">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="1">
+	    <category name="weapons"/>
+		<point pos="2.265909 -1.087845 -0.196146" range="0.823486" height="2" /> 
+		<point pos="-0.537969 -1.058484 -0.173998" range="0.89624" height="2" /> 
+	</container>
+	<container name="loot" lootmax="2">
+		<category name="Ammobox"/>
+		<category name="Parts"/>
+		<category name="Mag"/>
+		<point pos="-1.883994 -1.087845 0.166863" range="0.89624" height="2" /> 
+		<point pos="0.381926 -1.087845 0.069467" range="0.993652" height="2" /> 
+		<point pos="1.472655 -1.008483 0.295282" range="0.89624" height="2" /> 
+	</container>
+	<container name="loot" lootmax="2">
+        <category name="clothes"/>
+		<category name="containers"/>
+		<point pos="0.344036 -1.008483 -0.600093" range="0.89624" height="2" /> 
+		<point pos="-1.825999 -1.058483 -0.576206" range="0.89624" height="2" /> 
+	</container>
+</group>

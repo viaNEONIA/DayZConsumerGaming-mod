@@ -1,0 +1,24 @@
+		<group name="Land_Shed_W5" lootmax="3">
+				<usage name="Industrial" />
+				<usage name="Farm" />
+				<container name="lootFloor" lootmax="3">
+						<category name="tools" />
+						<category name="containers" />
+						<tag name="ground" />
+						<tag name="floor" />
+						<point pos="-1.097940 -1.326691 1.196910" range="0.220215" height="0.550537" />
+						<point pos="-0.947935 -1.445526 -1.914181" range="0.535645" height="1.330627" />
+						<point pos="0.539381 -1.444931 -1.804889" range="0.646729" height="1.610413" />
+						<point pos="0.829944 -1.445480 -0.495517" range="0.680176" height="1.699402" />
+						<point pos="0.119054 -1.446762 1.330221" range="0.709228" height="1.773070" />
+				</container>
+				<dispatch>
+				<proxy type="Pickaxe" pos="-1.528321 -0.437165 0.845703" rpy="0.000000 -90.249886 0.000000" />
+				<proxy type="Shovel" pos="-1.508789 -0.119660 -0.055664" rpy="0.000000 179.999893 179.999756" />
+				<proxy type="NailBox" pos="-1.146485 -1.323304 1.192871" rpy="0.000000 -106.592590 0.000000" />
+				<proxy type="StoneKnife" pos="-1.019532 -1.248566 0.993164" rpy="89.965729 0.000000 0.000000" />
+				<proxy type="BarbedWire" pos="1.229492 -1.319367 0.778321" rpy="0.000000 179.999893 179.999893" />
+				<proxy type="Pliers" pos="-1.032227 -1.325745 1.446778" rpy="89.965729 0.000000 0.000000" />
+				<proxy type="MetalWire" pos="0.199218 -1.448182 -1.032226" rpy="89.965729 0.000000 0.000000" />
+				</dispatch>
+		</group>
